@@ -1,0 +1,23 @@
+{
+  "version": "m6-v1",
+  "frozen_on": "2026-11-04",
+  "materials": {
+    "POL-DAILY": {
+      "file": "data\\sample_documents\\m6\\POL-DAILY.md",
+      "sha256": "bb65149904c1ae78ea660201074cb517a3b076cd8f06e61f8dde29eac743a932"
+    },
+    "POL-PROCESS": {
+      "file": "data\\sample_documents\\m6\\POL-PROCESS.md",
+      "sha256": "514adf44f42aef5954119687107210893248b25acba1eb84f930c099789abbe2"
+    },
+    "POL-RD": {
+      "file": "data\\sample_documents\\m6\\POL-RD.md",
+      "sha256": "7cf5c2fd68ae7b1e746fc3519b0d8c33f256b69faa0d67777c3b206ca50b9541"
+    },
+    "POL-TRAVEL": {
+      "file": "data\\sample_documents\\m6\\POL-TRAVEL.md",
+      "sha256": "bd1bcbd810e0042b28ba6ad664b5a15d1e4fc726ebe53c2838c17280f8142a85"
+    }
+  },
+  "cases_sha256": "19be10bb39668554874b32b0bb9acba863584e1c95157a90f45a24fd5ef3caa7"
+}

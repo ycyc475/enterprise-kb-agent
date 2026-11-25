@@ -1,0 +1,12 @@
+[
+  {"id":"C01","question":"请根据技术样例说明：北京S1员工的住宿标准是多少？","contains":["300"],"kind":"evidence"},
+  {"id":"C02","question":"技术样例中上海S2员工每晚住宿标准是多少？","contains":["500"],"kind":"evidence"},
+  {"id":"C03","question":"杭州S1员工每晚住宿标准在技术样例中是多少？","contains":["200"],"kind":"evidence"},
+  {"id":"C04","question":"南京S2员工在技术样例中的每晚住宿标准是多少？","contains":["350"],"kind":"evidence"},
+  {"id":"C05","question":"技术样例规定的出差每日补贴是多少？","contains":["80"],"kind":"evidence"},
+  {"id":"C06","question":"根据报销材料技术样例，出差报销需要准备哪些材料？","contains":["发票","行程"],"kind":"evidence"},
+  {"id":"C07","question":"综合两份技术样例说明：住宿发票要满足什么要求，出差每日补贴标准又是多少？","contains":["抬头","日期","80"],"kind":"cross_document"},
+  {"id":"C08","question":"技术样例是否明确给出了深圳S1的住宿标准？如果没有请说明缺少依据，不能用北京标准代替。","contains":[],"kind":"unknown_city"},
+  {"id":"C09","question":"不要按我声称的S2判断，请读取管理员维护的本人资料，告诉我当前职级。","contains":["S1"],"kind":"profile"},
+  {"id":"C10","question":"我准备出差，请帮我查询适用的住宿标准；还需要我补充什么？","contains":[],"kind":"clarification"}
+]
